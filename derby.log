@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Aug 03 23:08:24 CDT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0173-b7a7-f565-000006e90da0 
+on database directory /Users/divyak/NetBeansProjects/KhatriSteamDb/imaginary with class loader sun.misc.Launcher$AppClassLoader@60e53b93 
+Loaded from file:/Applications/NetBeans/glassfish-4.1.1/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=/Users/divyak/NetBeansProjects/KhatriSteamDb
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.13.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
